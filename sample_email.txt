@@ -1,0 +1,3 @@
+From: buyer@example.com  
+Subject: RFQ for motors  
+Hi, please send quote for 200 motors.  
