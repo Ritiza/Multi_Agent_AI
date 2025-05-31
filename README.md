@@ -36,16 +36,13 @@ multi_agent_system/
 ├── memory/
 │   └── shared_memory.py        # Redis/SQLite interface
 ├── utils/
-│   ├── pdf_utils.py            # PDF text extraction helpers
-│   ├── email_utils.py          # Email parsing utilities
-│   └── schema.py               # Target JSON schemas
+│   ├── intent_detector.py
+│            
 ├── sample_inputs/
 │   ├── sample_invoice.json
 │   ├── sample_email.txt
-│   └── sample_pdf.pdf
 ├── outputs/
-│   └── logs.txt                # Extraction logs
-├── demo.py                     # Main entry point
+│   └── snippets # Extraction logs
 ├── README.md
 └── requirements.txt
 
