@@ -1,0 +1,8 @@
+openai
+python-dotenv
+PyMuPDF
+streamlit
+openai
+utils.intent_detector
+streamlit
+dotenv
